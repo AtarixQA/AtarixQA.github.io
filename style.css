@@ -2,6 +2,7 @@ body {
      font-size: 18px;
      color: #333;
      font: italic small-caps bold 16px/24px Roboto, sans-serif;
+     background-color: #eee;
 }
 
 h1 {
@@ -43,3 +44,4 @@ section > p {
 li{
     margin-bottom: 10px;
 }
+
