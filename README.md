@@ -1,1 +1,1 @@
-О себе
+atarixqa.github.io/
